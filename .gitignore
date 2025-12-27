@@ -2,3 +2,6 @@
 tmp/market
 .DS_Store
 .vscode
+notebooks/
+sql/
+transformation/
