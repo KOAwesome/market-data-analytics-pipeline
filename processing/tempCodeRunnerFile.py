@@ -1,0 +1,1 @@
+spark.read.format("delta").load("/tmp/market/silver_prices").count()
